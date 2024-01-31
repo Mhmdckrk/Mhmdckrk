@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SwiftUI on VisionOS and 3rd party dependencies
 - 💞️ I’m looking to collaborate on any open source projects involving iOS.
 - 📫 You can reach me DM on LinkedIN profile in bio
-- 😄 Pronouns: designer, sportive, curious, friendly, calm
+- 😄 Pronouns: sportive, curious, friendly, calm
 
 
 <!---
